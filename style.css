@@ -1,0 +1,21 @@
+body{
+  background: rgb(255, 218, 191);
+  margin: 50px;
+}
+
+.description{
+	font-style: italic;
+	font-size: 120%; 
+}
+
+#ingredients{
+	font-weight: bold;
+}
+
+h1{
+	color: rgb(100, 0, 0);
+}
+
+h2{
+	color: rgb(100, 0, 0);
+}
